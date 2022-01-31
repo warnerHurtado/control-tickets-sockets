@@ -18,3 +18,50 @@ Algunas de sus funcionalidades son:
     Dar notificaciones
   </li>
 </ul>
+
+### Generador de tiquetes
+Bfadsfa
+
+<p align='center'>
+<img src="https://res.cloudinary.com/fileswarner/image/upload/v1643670211/vi8utlujzqugrhzxyppn.png" width="900">  
+</p>
+
+### Pantalla principal
+En esta vista se encuentra las opciones a realizar, atender cliete, crear ticket o ir a la pantalla para ver como se va atendiendo.
+
+<p align='center'>
+<img src="https://res.cloudinary.com/fileswarner/image/upload/v1643670306/n471atedpslxo6db57ie.png" width="900">  
+</p>
+
+### Pantalla de atención
+Esta vista indica el escritorio o ventanilla, en donde se puede atender al siguiente cliente, ver la cola y al que se está atendiendo en el momento.
+
+<p align='center'>
+<img src="hhttps://res.cloudinary.com/fileswarner/image/upload/v1643670338/m7s14p7hiartvn8cagg9.png" width="900">  
+</p>
+
+### Visualización global
+Esta vista contiene a la izquierda el ticket que está siendo atendido y en que escritorio o ventanilla. De la misma forma a su derecha tiene el historial
+de los últimos 3 tickets atendidos.
+
+<p align='center'>
+<img src="https://res.cloudinary.com/fileswarner/image/upload/v1643670385/lhgxuztl7yqq96bvwvyd.png" width="900">  
+</p>
+
+<ul>
+  <ul>
+    Frontend
+  </ul>
+  <li>
+    HTML
+  </li>
+  <li>
+    Bootstrap
+  </li>
+  <li>
+    CSS
+  </li>
+  <li>
+    Javascript
+  </li>
+</ul>
