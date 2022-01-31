@@ -2,7 +2,7 @@
 
 ## Un servidor de Websockets usando Node, Express y Socket.io
 
-## Temas cubiertos en mi curso de Node de cero a experto
+### Temas cubiertos en mi curso de Node de cero a experto
 
 Se desarrolló un sistema WebSocket que permite asimilar una fila de tickets de un banco,
 en donde se lleva un conteo en tiempo real tanto del lado del empleado como el del cliente con la ayuda de sockets.
@@ -48,10 +48,8 @@ de los últimos 3 tickets atendidos.
 <img src="https://res.cloudinary.com/fileswarner/image/upload/v1643670385/lhgxuztl7yqq96bvwvyd.png" width="900">  
 </p>
 
+### Frontend
 <ul>
-  <ul>
-    Frontend
-  </ul>
   <li>
     HTML
   </li>
