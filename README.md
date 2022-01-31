@@ -63,3 +63,16 @@ de los últimos 3 tickets atendidos.
     Javascript
   </li>
 </ul>
+
+### Backend
+<ul>
+  <li>
+    Node
+  </li>
+  <li>
+    Express
+  </li>
+  <li>
+    Socket.io
+  </li>
+</ul>
