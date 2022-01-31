@@ -20,7 +20,7 @@ Algunas de sus funcionalidades son:
 </ul>
 
 ### Generador de tiquetes
-Bfadsfa
+Genera un nuevo ticket y lo manda a la cola a esperar por su turno.
 
 <p align='center'>
 <img src="https://res.cloudinary.com/fileswarner/image/upload/v1643670211/vi8utlujzqugrhzxyppn.png" width="400">  
